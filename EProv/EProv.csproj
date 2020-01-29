@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{87435A23-681C-4C35-BCDE-AEA6389476D6}</ProjectGuid>
+    <ProjectGuid>{BBB237D8-8EF4-4530-B872-E6E77179DCF0}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>EProv</RootNamespace>
     <AssemblyName>EProv</AssemblyName>
